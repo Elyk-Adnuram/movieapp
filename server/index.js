@@ -8,7 +8,7 @@ const config = require("./config/key");
 //mongoose is used to connnect to the database
 const mongoose = require("mongoose");
 const connect = mongoose
-  .connect(process.env.mongoURI || config.mongoURI, {
+  .connect(config.mongoURI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
