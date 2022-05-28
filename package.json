@@ -16,7 +16,7 @@
     "heroku-postbuild": "npm run install-client && npm run build",
     "test": "react-scripts test"
   },
-  "author": " ",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",

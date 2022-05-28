@@ -64,3 +64,6 @@ System requirements
    - Simplicity and Functionality: We will strive to keep our application easy to use and understand as this will foster quick adoption of and changes made to
      the application. It is also important to ensure that our application always functions as expected or exceeds expectations so that client satisfaction can
      be maintained.
+
+App deployed to Heroku
+https://morning-brushlands-09929.herokuapp.com/
